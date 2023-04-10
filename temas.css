@@ -21,7 +21,7 @@
 .inicio{
     width: 40px;
     height: 75px;
-    background-color: aqua;
+    background-color: rgb(7, 247, 247);
     margin: 2px;
 } 
 .sociales{
@@ -46,7 +46,7 @@
 .izquierda{
     width: 20%;
     height: 1200px;
-    background-color: rgba(126, 209, 47);
+    background-color: rgb(84, 95, 74);
     background-image: url("at.JFIF");
     background-repeat: no-repeat;
    
@@ -54,7 +54,7 @@
 .centro{
 width: 60%;
 height: 1200px;
-background-color: ivory;
+background-color: rgb(95, 95, 31);
 font-size: 25px;
 text-align: center;
 color: rgb(255, 255, 255);
@@ -66,7 +66,7 @@ background-repeat: no-repeat;
 .derecha{
     width: 20%;
     height: 1200px;
-     background-color: rgb(126, 209, 47);
+     background-color: rgb(86, 129, 46);
      font-size: 25px;
      text-align: center;
      color: aliceblue;
